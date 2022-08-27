@@ -14,3 +14,25 @@ body {
 	font-size: 16px;
 	color: Aquamarine;
 }
+
+.header-second {
+	font-weight: 300;
+	font-size: 42px;
+	color: #ffffff;
+}
+
+.text-one{
+	font-size: 21px;
+	color: gray;
+}
+
+.header-third {
+	font-weight: 300;
+	font-size: 42px;
+	color: #ffffff;
+}
+
+.copyright{
+	text-align: Right;
+	color: Gray;
+}
